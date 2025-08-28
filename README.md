@@ -5,7 +5,6 @@
 ## Selected projects
 - [Bikeshare Analysis (Python)](https://github.com/andigles/bikeshare-mini) — CLI analysis with tiny sample data, tests, and CI (continuous integration).
 - [Finding Donors — In Progress (notebook)](https://github.com/andigles/finding_donors) — Udacity ML project; working locally in `starter/finding_donors.ipynb`. Portfolio polish/CI will follow after completion.
-- [Stack Overflow Survey Analysis](https://github.com/andigles/stackoverflow) — exploratory analysis and visualization of developer survey data.
 
 ## What I value
 - **Reproducibility**: every repo runs from a clean clone
