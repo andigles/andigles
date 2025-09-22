@@ -4,7 +4,7 @@
 
 ## Selected projects
 - [Bikeshare Analysis (Python)](https://github.com/andigles/bikeshare-mini) — CLI analysis with tiny sample data, tests, and CI (continuous integration).
-- [Finding Donors — In Progress (notebook)](https://github.com/andigles/finding_donors) — Udacity ML project; working locally in `starter/finding_donors.ipynb`. Portfolio polish/CI will follow after completion.
+- [Finding Donors — In Progress (notebook)](https://github.com/andigles/finding-donors) — Udacity ML project; working locally in `starter/finding_donors.ipynb`. Portfolio polish/CI will follow after completion.
 - [Dog Breed (PyTorch)](https://github.com/andigles/dog-breed-pretrained) — CLI to evaluate pretrained models on pet images; prints per-model accuracy and writes results.csv in one command.
 
 ## What I value
