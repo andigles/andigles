@@ -1,23 +1,22 @@
 # Hi, I'm Andrés 👋
 
-🎯 Transitioning into **Machine Learning / MLOps** — I build small, reproducible projects using Python, SQL, and simple cloud tooling.
+I’m transitioning into **Machine Learning / MLOps (Machine Learning Operations)**.  
+I build small, reproducible projects using **Python**, **SQL**, and simple automation.
 
 ## Selected projects
-- [Flower Image Classifier (PyTorch)](https://github.com/andigles/flower-image-classifier) — Train from a saved checkpoint + CLI prediction (top-K). Clear setup + reproducible run steps.
-- [Finding Donors — Case Study (scikit-learn)](https://github.com/andigles/finding-donors-ml) — Income prediction with model comparison, tuning, and clear write-up (F0.5-focused).  
-  - Read the report (HTML): [https://andigles.github.io/finding-donors-ml/]
-- [Bikeshare Analysis (Python)](https://github.com/andigles/bikeshare-mini) — CLI analysis with tiny sample data, tests, and CI (continuous integration).
-- [Dog Breed (PyTorch)](https://github.com/andigles/dog-breed-pretrained) — CLI to evaluate pretrained models on pet images; prints per-model accuracy and writes `results.csv` in one command.
+- **[Flower Image Classifier (PyTorch)](https://github.com/andigles/flower-image-classifier)** — Train and run predictions from the command line (top-K). Includes clear setup steps and an automated run check.
+- **[Finding Donors (scikit-learn)](https://github.com/andigles/finding-donors-ml)** — Supervised learning case study to predict >$50K income with model comparison and tuning.  
+  Report (HTML): **[andigles.github.io/finding-donors-ml](https://andigles.github.io/finding-donors-ml/)**
+- **[Bikeshare Analysis (Python)](https://github.com/andigles/bikeshare-mini)** — Command-line data analysis with a small sample dataset, tests, and **CI (Continuous Integration)**.
+- **[Dog Breed Classifier (PyTorch)](https://github.com/andigles/dog-breed-pretrained)** — Command-line evaluation of pretrained models; prints per-model accuracy and writes `results.csv`.
 
 ## What I value
 - **Reproducibility**: every repo runs from a clean clone
-- **Plain language**: define any acronym the first time
-- **Evidence**: tests, CI badges, and clear run steps
+- **Plain language**: define acronyms the first time
+- **Evidence**: tests, CI checks, and clear run steps
 
 ## Focus / learning
-FastAPI • Docker • SQL (DuckDB/Postgres) • MLflow • Prefect
+FastAPI • Docker • SQL (DuckDB, Postgres) • MLflow • Prefect
 
 ## How to reach me
-- LinkedIn: https://www.linkedin.com/in/andigles
-
-*Thanks for visiting — feedback and issues welcome!*
+- **LinkedIn**: https://www.linkedin.com/in/andigles
