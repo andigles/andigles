@@ -5,7 +5,7 @@
 ## Selected projects
 - [Flower Image Classifier (PyTorch)](https://github.com/andigles/flower-image-classifier) — Train from a saved checkpoint + CLI prediction (top-K). Clear setup + reproducible run steps.
 - [Finding Donors — Case Study (scikit-learn)](https://github.com/andigles/finding-donors-ml) — Income prediction with model comparison, tuning, and clear write-up (F0.5-focused).  
-  - Read the report (HTML): https://github.com/andigles/finding-donors-ml/blob/main/notebooks/finding_donors.html
+  - Read the report (HTML): [https://andigles.github.io/finding-donors-ml/]
 - [Bikeshare Analysis (Python)](https://github.com/andigles/bikeshare-mini) — CLI analysis with tiny sample data, tests, and CI (continuous integration).
 - [Dog Breed (PyTorch)](https://github.com/andigles/dog-breed-pretrained) — CLI to evaluate pretrained models on pet images; prints per-model accuracy and writes `results.csv` in one command.
 
